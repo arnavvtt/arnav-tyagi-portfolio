@@ -1,5 +1,6 @@
 # Arnav Tyagi — Portfolio
 
+<<<<<<< HEAD
 A responsive, dependency-free, multi-page portfolio for Python backend, GenAI, and software engineering work.
 
 ## Pages
@@ -44,3 +45,6 @@ This is a static site; it needs no build step or paid hosting. The files are rea
 5. Add that URL to LinkedIn’s **Featured** section with the title **Arnav Tyagi | AI & Software Portfolio**.
 
 Suggested LinkedIn description: “Projects in Generative AI, backend development, and software engineering.”
+=======
+Personal portfolio website. Deployment is being prepared using GitHub Pages.
+>>>>>>> 84157e7a8c9b12dbcf9605141205b60354358406
